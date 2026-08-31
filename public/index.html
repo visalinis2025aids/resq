@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
+<title>SafeBee Live Tracker</title>
+
+<link
+rel="stylesheet"
+href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+
+<link
+rel="stylesheet"
+href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>
+🚨 SafeBee Emergency Live Tracking
+</h1>
+
+<div id="status">
+
+Connecting...
+
+</div>
+
+</header>
+
+
+
+<div class="container">
+
+
+<div class="info-panel">
+
+<div class="card">
+
+<h3>Latitude</h3>
+
+<p id="latitude">--</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Longitude</h3>
+
+<p id="longitude">--</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Speed</h3>
+
+<p id="speed">-- km/h</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Heading</h3>
+
+<p id="heading">--</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Last Updated</h3>
+
+<p id="time">--</p>
+
+</div>
+
+</div>
+
+
+
+<div id="map"></div>
+
+
+
+<div class="buttons">
+
+<button id="navigate">
+
+🧭 Navigate
+
+</button>
+
+</div>
+
+</div>
+
+
+
+<script
+src="https://unpkg.com/leaflet/dist/leaflet.js">
+</script>
+
+
+<script
+type="module"
+src="app.js">
+</script>
+
+</body>
+
+</html>

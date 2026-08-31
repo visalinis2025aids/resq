@@ -1,0 +1,76 @@
+name: safebee
+
+description: "SafeBee Smart Jewellery Safety Application"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Permissions
+  permission_handler: ^12.0.1
+
+  # OpenStreetMap
+  flutter_map: ^8.2.1
+  latlong2: ^0.9.1
+
+  # Location
+  geolocator: ^14.0.2
+  geocoding: ^4.0.0
+
+  # State Management
+  provider: ^6.1.5
+
+  # Local Storage
+  shared_preferences: ^2.5.3
+
+  # UUID
+  uuid: ^4.5.1
+
+  # Firebase
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.6.2
+  cloud_firestore: ^5.6.11
+  firebase_storage: ^12.4.10
+  firebase_messaging: ^15.2.10
+
+  # Bluetooth Smart Jewellery
+  flutter_blue_plus: ^1.35.5
+
+  # Camera
+  camera: ^0.11.0
+
+  # File Storage
+  path_provider: ^2.1.5
+  path: ^1.9.1
+
+  # Notifications
+  flutter_local_notifications: ^18.0.1
+
+  # Maps / SMS
+  url_launcher: ^6.3.2
+
+  # Date & Time
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/animations/

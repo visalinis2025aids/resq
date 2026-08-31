@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "997083375256",
+    "project_id": "resq-204f0",
+    "storage_bucket": "resq-204f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997083375256:android:0240b426ff4d770cccd2ed",
+        "android_client_info": {
+          "package_name": "com.example.resq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997083375256-q8tv77r3p198pvalg16p7ql7jrqd1cpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resq",
+            "certificate_hash": "9c5f682c8d996c73571ae475eedf796dfa8e2323"
+          }
+        },
+        {
+          "client_id": "997083375256-tlac8udpvf51ke7nh56c3magueo2s22j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbatrjd1W7jIU93CrXYx6ta36fIjWOMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997083375256-tlac8udpvf51ke7nh56c3magueo2s22j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997083375256-q6a1c5s60d66crq0hd92bll2go5fljhe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resq"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997083375256:android:5ffef6670bd27a79ccd2ed",
+        "android_client_info": {
+          "package_name": "com.visalini.resq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997083375256-ouu4m9p3btmgmp7jloq8qvaqdnveoh1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visalini.resq",
+            "certificate_hash": "9c5f682c8d996c73571ae475eedf796dfa8e2323"
+          }
+        },
+        {
+          "client_id": "997083375256-tlac8udpvf51ke7nh56c3magueo2s22j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbatrjd1W7jIU93CrXYx6ta36fIjWOMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997083375256-tlac8udpvf51ke7nh56c3magueo2s22j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997083375256-q6a1c5s60d66crq0hd92bll2go5fljhe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resq"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997083375256:android:0d3e7afc0a8086d5ccd2ed",
+        "android_client_info": {
+          "package_name": "com.visalini.safebee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997083375256-4icvpnddg2d9itn681akfapd30qahg0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visalini.safebee",
+            "certificate_hash": "9c5f682c8d996c73571ae475eedf796dfa8e2323"
+          }
+        },
+        {
+          "client_id": "997083375256-tlac8udpvf51ke7nh56c3magueo2s22j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbatrjd1W7jIU93CrXYx6ta36fIjWOMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997083375256-tlac8udpvf51ke7nh56c3magueo2s22j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997083375256-q6a1c5s60d66crq0hd92bll2go5fljhe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
